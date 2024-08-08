@@ -60,7 +60,7 @@ let { songs } = {
             "name": "Sound of Salaar",
             "artist": "Ravi Basrur",
             "location": "./assets/Sound of Salaar.mp3",
-            "image": "./images/Salaar.jpeg",
+            "image": "./images/Sooreede_cover.jpeg",
             "liked": false,
             "id": 7
         },
@@ -68,7 +68,7 @@ let { songs } = {
             "name": "Be Free",
             "artist": "Vidya Vox",
             "location": "./assets/Be Free.mp3",
-            "image": "./images/vidya vox.jpeg",
+            "image": "./images/vidya_vox.jpeg",
             "liked": true,
             "id": 8
         },
