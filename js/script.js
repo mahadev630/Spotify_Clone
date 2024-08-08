@@ -68,7 +68,7 @@ let { songs } = {
             "name": "Be Free",
             "artist": "Vidya Vox",
             "location": "./assets/Be Free.mp3",
-            "image": "./images/vidya_vox.jpeg",
+            "image": "./images/vidya vox.jpeg",
             "liked": true,
             "id": 8
         },
