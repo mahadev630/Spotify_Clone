@@ -50,7 +50,7 @@
             "name": "Pallivaalu-Bhadravattakam",
             "artist": "Vidya Vox",
             "location": "./assets/Pallivaalu-Bhadravattakam.mp3",
-            "image": "./images/vidya vox.jpeg",
+            "image": "./images/vidya_vox.jpeg",
             "liked": true,
             "id": 6},
         {
@@ -71,7 +71,7 @@
             "name": "Sooreede",
             "artist": "Harini Ivaturi",
             "location": "./assets/Sooreede.mp3",
-            "image": "./images/Salaar.jpeg",
+            "image": "./images/Sooreede_cover.jpeg",
             "liked": true,
             "id": 9},
         {
