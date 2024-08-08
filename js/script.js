@@ -60,7 +60,7 @@ let { songs } = {
             "name": "Sound of Salaar",
             "artist": "Ravi Basrur",
             "location": "./assets/Sound of Salaar.mp3",
-            "image": "./images/Sooreede_cover.jpeg",
+            "image": "./images/Salaar.jpeg",
             "liked": false,
             "id": 7
         },
