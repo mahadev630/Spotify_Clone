@@ -38,55 +38,63 @@
             "location": "./assets/Nenu Nuvvantu.mp3",
             "image": "./images/Orange.jpeg",
             "liked": false,
-            "id": 4},
+            "id": 4
+        },
         {
             "name": "Phir Se Ud Chala",
             "artist": "Mohit Chauhan",
             "location": "./assets/Phir Se Ud Chala.mp3",
             "image": "./images/Rockstar.jpeg",
             "liked": true,
-            "id": 5},
+            "id": 5
+        },
         {
             "name": "Pallivaalu-Bhadravattakam",
             "artist": "Vidya Vox",
             "location": "./assets/Pallivaalu-Bhadravattakam.mp3",
             "image": "./images/vidya_vox.jpeg",
             "liked": true,
-            "id": 6},
-        {
-            "name": "Be Free",
-            "artist": "Vidya Vox",
-            "location": "./assets/Be Free.mp3",
-            "image": "./images/vidya vox.jpeg",
-            "liked": true,
-            "id": 7},
+            "id": 6
+        },
         {
             "name": "Sound of Salaar",
             "artist": "Ravi Basrur",
             "location": "./assets/Sound of Salaar.mp3",
             "image": "./images/Salaar.jpeg",
             "liked": false,
-            "id": 8},
+            "id": 7
+        },
+        {
+            "name": "Be Free",
+            "artist": "Vidya Vox",
+            "location": "./assets/Be Free.mp3",
+            "image": "./images/vidya vox.jpeg",
+            "liked": true,
+            "id": 8
+        },
         {
             "name": "Sooreede",
             "artist": "Harini Ivaturi",
             "location": "./assets/Sooreede.mp3",
             "image": "./images/Sooreede_cover.jpeg",
             "liked": true,
-            "id": 9},
+            "id": 9
+        },
         {
             "name": "Neeve",
             "artist": "G.V Prakash",
             "location": "./assets/Neeve.mp3",
             "image": "./images/darling.jpeg",
             "liked": true,
-            "id": 10},
+            "id": 10
+        },
         {
             "name": "Badulu Thochani",
             "artist": "Karthik",
             "location": "./assets/Badulu Thochani.mp3",
             "image": "./images/mr.perfect.jpeg",
             "liked": false,
-            "id": 11}
+            "id": 11
+        }
     ]
 }
